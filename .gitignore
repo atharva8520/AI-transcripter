@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Local downloads/temp folders
+downloads/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Local model cache folders (HuggingFace models, Whisper models)
+.cache/
+hf_models/
+whisper_models/
+vector_db/
